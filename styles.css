@@ -43,7 +43,7 @@ nav a:hover {
 
 /* Landing Section */
 .landing {
-    background: <img src="Images/pexels-chanwalrus-958545.jpg"> no-repeat center center/cover;
+    background: url(https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?cs=srgb&dl=pexels-chanwalrus-958545.jpg&fm=jpg) no-repeat center center/cover;
     color: #fff;
     height: 60vh;
     text-align: center;
